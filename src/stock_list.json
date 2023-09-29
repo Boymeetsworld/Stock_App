@@ -1,0 +1,21 @@
+[
+    { "symbol": "AAPL", "name": "Apple Inc.", "price": "150.00" },
+    { "symbol": "GOOGL", "name": "Google Inc.", "price":"124.61"},
+    {"symbol": "TSLA", "name": "Telsa Inc.", "price":" 193.17"},
+    {"symbol": "KO", "name": "Telsa Inc.", "price":" 193.17"},
+    {"symbol": "KO", "name": "Coca-Cola Co", "price":"60.26"},
+    {"symbol": "PEP", "name": "Pepsi Co", "price":"183.58"},
+    {"symbol": "AMZN", "name": "Amazon.com, Inc.", "price":"120.11"},
+    {"symbol": "DE", "name": "Deere & Company", "price":"351.21"},
+    {"symbol": "BA", "name": "Boeing Co", "price":"203.63"},
+    {"symbol": "SPY", "name": "SPDR S&P 500 ETF Trust", "price":"420.02"},
+    {"symbol": "QQQ", "name": "Invesco QQQ Trust Series 1", "price":"348.4"},
+    {"symbol": "IWM", "name": "iShares Russell 2000 ETF", "price":"176.15"},
+    {"symbol": "F", "name": "Ford Motor Co", "price":"12.09"},
+    {"symbol": "AMD", "name": "Advanced Micro Devices, Inc", "price":"127.03"},
+    {"symbol": "NVDA", "name": "NVIDIA Corp", "price":"389.46"},
+    {"symbol": "GS", "name": "Goldman Sachs Group Inc", "price":"332.01"},
+    {"symbol": "MCD", "name": "McDonald's Corp", "price":"286.04"},
+    {"symbol": "UAL", "name": "United Airlines Holdings Inc", "price":"47.26"}
+]
+ 
